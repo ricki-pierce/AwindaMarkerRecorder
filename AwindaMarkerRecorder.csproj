@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk"> 
+
+  <PropertyGroup> 
+    <OutputType>WinExe</OutputType> 
+    <TargetFramework>net10.0-windows</TargetFramework> 
+    <UseWindowsForms>true</UseWindowsForms> 
+    <Nullable>disable</Nullable> 
+  </PropertyGroup>  
+
+  <ItemGroup>
+    <None Include="xsens_libs\*.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>%(Filename)%(Extension)</TargetPath>
+    </None>
+    <None Include="xsens_libs\platforms\*.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>platforms\%(Filename)%(Extension)</TargetPath>
+    </None>
+  </ItemGroup>
+
+</Project>

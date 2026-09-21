@@ -1,0 +1,243 @@
+Folder PATH listing for volume OS
+Volume serial number is 0417-2872
+C:.
+|   AwindaMarkerRecorder.csproj
+|   folder_tree.txt
+|   Program.cs
+|   RecorderForm.cs
+|   
++---bin
+|   \---Debug
+|       +---net10.0
+|       \---net10.0-windows
+|           |   AwindaMarkerRecorder.deps.json
+|           |   AwindaMarkerRecorder.dll
+|           |   AwindaMarkerRecorder.exe
+|           |   AwindaMarkerRecorder.pdb
+|           |   AwindaMarkerRecorder.runtimeconfig.json
+|           |   
+|           \---xsens_libs
+|               |   Qt5Core.dll
+|               |   Qt5Gui.dll
+|               |   Qt5Widgets.dll
+|               |   xsensdeviceapi64.dll
+|               |   xsensdeviceapi_com64.dll
+|               |   xsensdeviceapi_csharp64.dll
+|               |   xstypes64.dll
+|               |   
+|               \---platforms
+|                       qwindows.dll
+|                       
++---obj
+|   |   AwindaMarkerRecorder.csproj.nuget.dgspec.json
+|   |   AwindaMarkerRecorder.csproj.nuget.g.props
+|   |   AwindaMarkerRecorder.csproj.nuget.g.targets
+|   |   project.assets.json
+|   |   project.nuget.cache
+|   |   
+|   \---Debug
+|       +---net10.0
+|       |   |   .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+|       |   |   AwindaMarkerRecorder.AssemblyInfo.cs
+|       |   |   AwindaMarkerRecorder.AssemblyInfoInputs.cache
+|       |   |   AwindaMarkerRecorder.assets.cache
+|       |   |   AwindaMarkerRecorder.GeneratedMSBuildEditorConfig.editorconfig
+|       |   |   AwindaMarkerRecorder.GlobalUsings.g.cs
+|       |   |   
+|       |   +---ref
+|       |   \---refint
+|       \---net10.0-windows
+|           |   .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+|           |   apphost.exe
+|           |   AwindaMarkerRecorder.AssemblyInfo.cs
+|           |   AwindaMarkerRecorder.AssemblyInfoInputs.cache
+|           |   AwindaMarkerRecorder.assets.cache
+|           |   AwindaMarkerRecorder.csproj.CoreCompileInputs.cache
+|           |   AwindaMarkerRecorder.csproj.FileListAbsolute.txt
+|           |   AwindaMarkerRecorder.dll
+|           |   AwindaMarkerRecorder.GeneratedMSBuildEditorConfig.editorconfig
+|           |   AwindaMarkerRecorder.genruntimeconfig.cache
+|           |   AwindaMarkerRecorder.pdb
+|           |   
+|           +---ref
+|           |       AwindaMarkerRecorder.dll
+|           |       
+|           \---refint
+|                   AwindaMarkerRecorder.dll
+|                   
+\---xsens_libs
+    |   Qt5Core.dll
+    |   Qt5Gui.dll
+    |   Qt5Widgets.dll
+    |   xsensdeviceapi64.dll
+    |   xsensdeviceapi64.lib
+    |   xsensdeviceapi_com64.dll
+    |   xsensdeviceapi_csharp64.dll
+    |   xstypes64.dll
+    |   xstypes64.lib
+    |   
+    +---platforms
+    |       qwindows.dll
+    |       
+    \---wrap_csharp64
+            IpProtocol.cs
+            NetworkLayerProtocol.cs
+            SWIGTYPE_p_double.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_enum_XsConnectivityState__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_enum_XsDeviceState_enum_XsDeviceState__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_enum_XsInfoRequest__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_enum_XsResultValue__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_int_int_int__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_int_int_p_q_const__XsString__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_p_q_const__XsDataPacket__int.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_p_q_const__XsDataPacket__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_p_q_const__XsMessage__int.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice_p_q_const__XsMessage__void.cs
+            SWIGTYPE_p_f_p_XsCallbackPlainC_p_XsDevice__void.cs
+            SWIGTYPE_p_int.cs
+            SWIGTYPE_p_long_long.cs
+            SWIGTYPE_p_p_XsDevice.cs
+            SWIGTYPE_p_std__string.cs
+            SWIGTYPE_p_std__vectorT_double_t.cs
+            SWIGTYPE_p_std__wstring.cs
+            SWIGTYPE_p_time_t.cs
+            SWIGTYPE_p_tm.cs
+            SWIGTYPE_p_unsigned_char.cs
+            SWIGTYPE_p_unsigned_short.cs
+            SWIGTYPE_p_void.cs
+            SWIGTYPE_p_wchar_t.cs
+            SWIGTYPE_p_XsArrayDescriptor.cs
+            SWIGTYPE_p_XsArrayImplT_XsDevicePtr_g_xsDevicePtrArrayDescriptor_XsDevicePtrArray_t__ArrayImpl.cs
+            SWIGTYPE_p_XsControl.cs
+            SWIGTYPE_p_XsDataBundler.cs
+            SWIGTYPE_p_XsDevice.cs
+            SWIGTYPE_p_XsMessageHeader__LengthData.cs
+            SWIGTYPE_p_XsSimpleVersion.cs
+            SWIGTYPE_p_XsSocket.cs
+            SWIGTYPE_p_XsVersion.cs
+            SWIGTYPE_p___int64.cs
+            XsAccessControlMode.cs
+            XsAlignmentFrame.cs
+            XsAnalogInData.cs
+            XsArray.cs
+            XsAtomicInt.cs
+            XsBaudCode.cs
+            XsBaudRate.cs
+            XsBoolean.cs
+            XsByteArray.cs
+            XsByteArrayImpl.cs
+            XsCalibratedData.cs
+            XsCalibratedDataMode.cs
+            XsCallback.cs
+            XsCallbackPlainC.cs
+            XsConnectivityState.cs
+            XsControl.cs
+            XsControlLine.cs
+            XsCoordinateSystem.cs
+            XsDataBundler.cs
+            XsDataFlags.cs
+            XsDataFormat.cs
+            XsDataIdentifier.cs
+            XsDataPacket.cs
+            XsDevice.cs
+            XsDeviceConfiguration.cs
+            XsDeviceConfigurationException.cs
+            XsDeviceErrorType.cs
+            XsDeviceId.cs
+            XsDeviceIdArray.cs
+            XsDeviceIdArrayImpl.cs
+            XsDeviceMode.cs
+            XsDeviceModePS.cs
+            XsDeviceModeR.cs
+            XsDevicePtrArray.cs
+            XsDevicePtrArrayImpl.cs
+            XsDeviceRef.cs
+            XsDeviceState.cs
+            xsensdeviceapi.cs
+            xsensdeviceapiPINVOKE.cs
+            XsErrorMode.cs
+            XsEuler.cs
+            XsException.cs
+            XsFile.cs
+            XsFilterProfile.cs
+            XsFilterProfileArray.cs
+            XsFilterProfileArrayImpl.cs
+            XsFloatFormat.cs
+            XsGpsPvtData.cs
+            XsInfoRequest.cs
+            XsInt64Array.cs
+            XsInt64ArrayImpl.cs
+            XsIntArray.cs
+            XsIntArrayImpl.cs
+            XsLibraryLoader.cs
+            XsMasterDeviceConfiguration.cs
+            XsMatrix.cs
+            XsMatrix3x3.cs
+            XsMessage.cs
+            XsMessageArray.cs
+            XsMessageArrayImpl.cs
+            XsMessageHeader.cs
+            XsMtDeviceConfiguration.cs
+            XsMutex.cs
+            XsMutexLocker.cs
+            XsNmeaStringType.cs
+            XsOption.cs
+            XsOrientationMode.cs
+            XsOutputConfiguration.cs
+            XsOutputConfigurationArray.cs
+            XsOutputConfigurationArrayImpl.cs
+            XsOutputMode.cs
+            XsOutputSettings.cs
+            XsPortInfo.cs
+            XsPortInfoArray.cs
+            XsPortInfoArrayImpl.cs
+            XsPressure.cs
+            XsProcessingFlag.cs
+            XsProtocolType.cs
+            XsQuaternion.cs
+            XsQueueMode.cs
+            XsRange.cs
+            XsRawGnssPvtData.cs
+            XsRawGnssSatInfo.cs
+            XsRawGpsDop.cs
+            XsRawGpsSol.cs
+            XsRawGpsSvInfo.cs
+            XsRawGpsTimeUtc.cs
+            XsRejectReason.cs
+            XsResetMethod.cs
+            XsResultValue.cs
+            XsSatInfo.cs
+            XsSatInfoFlags.cs
+            XsScanner.cs
+            XsScrData.cs
+            XsSdiData.cs
+            XsSelfTestFlag.cs
+            XsSelfTestResult.cs
+            XsSimpleVersion.cs
+            XsSocket.cs
+            XsSocketOption.cs
+            XsStatusFlag.cs
+            XsStatusFlagOffset.cs
+            XsString.cs
+            XsStringArray.cs
+            XsStringArrayImpl.cs
+            XsStringImpl.cs
+            XsSvInfo.cs
+            XsSyncFunction.cs
+            XsSyncLine.cs
+            XsSyncPolarity.cs
+            XsSyncRole.cs
+            XsSyncSetting.cs
+            XsSyncSettingArray.cs
+            XsSyncSettingArrayImpl.cs
+            XsThreadPriority.cs
+            XsTimeStamp.cs
+            XsTriggerIndicationData.cs
+            XsUsbHubInfo.cs
+            XsUShortVector.cs
+            XsUtcTime.cs
+            XsVector.cs
+            XsVector3.cs
+            XsVersion.cs
+            XsXbusMessageId.cs
+            
