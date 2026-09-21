@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AwindaMarkerRecorder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e26bceff34a299b4bc5d1f89ea18102047df7cb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AwindaMarkerRecorder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AwindaMarkerRecorder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
